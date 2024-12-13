@@ -19,7 +19,8 @@
     "recharts": "^2.10.3",
     "papaparse": "^5.4.1",
     "@anthropic-ai/sdk": "^0.16.0",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "tailwind-merge": "^2.2.0"
   },
   "devDependencies": {
     "@types/node": "^20",
